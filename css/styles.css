@@ -9,7 +9,14 @@ body{
   font-family: helvetica, sans-serif;
 }
 .container {
-  margin: 400px 300px;
+  /*margin: 400px 300px;*/
+  width:800px;
+  height:400px;
+  margin:auto;
+  /*border:1px solid black;*/
+  margin-top: 20%;
+
+
 }
 
 .left-box {
@@ -18,6 +25,7 @@ body{
   width: 300px;
   float: left;
   text-align: center;
+
 }
 
 .left-box-content {
